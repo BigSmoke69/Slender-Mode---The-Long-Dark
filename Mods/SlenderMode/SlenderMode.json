@@ -1,0 +1,15 @@
+﻿{
+	"Enabled": true,
+	"RealDeath": true,
+	"Difficulty": "Easy",
+	"ExtraDarkness": 0,
+	"UseCustomModel": true,
+	"CreatureHeight": 4,
+	"ModelYaw": 0,
+	"PageEditor": false,
+	"ShowDistance": false,
+	"TriggerNow": false,
+	"ChaserNow": false,
+	"StartPages": "None",
+	"ChaserTestMode": false
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/1sXnwIP24=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danio\\Desktop\\TLD CHEATS\\Slenderman.v0.16.0\\SlenderMode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Danio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Danio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
