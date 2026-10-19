@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="slendermantldbackground" src="https://github.com/user-attachments/assets/88afd375-ebdd-42ee-abd8-e47cd8f090a1" />
 # Slender: The Eight Pages
 
 A horror game mode for **The Long Dark**. You are put on Coastal Highway in a night that never
